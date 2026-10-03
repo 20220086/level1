@@ -1,0 +1,10 @@
+level3_advanced.txt|94|Normal|1
+level3_advanced.txt|52|Normal|1
+level2_keys.txt|30|Normal|1
+level1_basic.txt|28|Normal|1
+level1_basic.txt|20|Normal|1
+level1_basic.txt|28|Normal|1
+(random maze)|8|Normal|1
+(random maze)|8|Normal|1
+level3_advanced.txt|80|Normal|1
+level3_advanced.txt|84|TimeLimit|1
